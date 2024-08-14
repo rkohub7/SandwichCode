@@ -1,0 +1,63 @@
+***************************************************************************
+*****Practicum on creating free repository********************************
+**************************************************************************
+*1.Setting a GitHub Account from the Github landing page 
+-Go to: https://github.com/
+-Enter the necessary credentials including your email address
+ and sign up for Github.
+
+*1a.Your Dashboard: lookfor new or create Dashboard 
+-Fill in the credentials; 
+--DataManagement
+-Private Repository is recommended for beginners
+-Initialise with a Readme file: You can put your bio over here
+-Getignored: These are some of your confidential information
+--You can use visual studio...
+Choose a license: Is important for open source projects 
+-You can use the MIT license  
+-Finally, create your repository: Ready to go
+	  
+
+*2. Pulling down our repository to our local computor so that
+we can continue working from our local computer 
+-This is where github desktop comes in 
+-The installation is very straightforward:https://desktop.github.com/download/
+-After installation, launch and log into github desktop
+-It is time to clone a repository from the internet
+-You have more than one option, in terms of the provider, 
+--Choose github.com because it is much convenient
+-You can refresh to see whether your repository will show up
+-Choose your directory from your local computer
+-Once you hit clone, it will pull it down 
+-You can now check your current repository
+
+*3. You can view the files in explorer and it will openup your file system
+-You can open the readme file
+-You can edit the readme in your file editor
+-Then lets go back to our github desktop, check the files you want to commit for changes 
+-You can also describe the commitment process in the bottom left corner 
+-Then you can commit to main. We call it the main repository
+-Then you will see the option of push origin 
+-You can check for update from other  developers 
+-If you are collaborating on this repository, then you can go for fetch changes and if 
+there are changes, it will change to pour.
+-Then new changes will be poured down
+
+*4. You will not be able to push your changes to my repository by default
+
+
+*5.How to clone somebody else's directory
+-Go to code: green topright corner
+-Open with github desktop
+-You put in the credentials:url information that you need
+-Then you clone  
+-Great: You have a repository as a beginner 
+***************************************************************************************
+***************************************************************************************
+**1. Creat a repository
+**2.Commit,Push and Pull your code to the repository
+**3.You look at the codes of other people
+***************************************************************************************
+***************************************************************************************
+
+ 
