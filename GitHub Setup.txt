@@ -1,3 +1,6 @@
+***************************************************************************
+*****Practicum on creating free repository********************************
+**************************************************************************
 *1.Setting a GitHub Account from the Github landing page 
 -Go to: https://github.com/
 -Enter the necessary credentials including your email address
